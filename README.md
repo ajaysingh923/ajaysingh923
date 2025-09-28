@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">I'm from Siraha, Nepal<br>- 📚 I'm currently studying Software Engineering at NCIT</h2>
+<h2 align="left">I'm from Siraha, Nepal<br>- 📚 I'm a Software Engineer</h2>
 
 ###
 
